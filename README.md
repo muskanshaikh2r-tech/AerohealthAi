@@ -1,56 +1,181 @@
-# AeroHealth AI 🌿
+# 🌿 AeroHealth AI
 
-## About the Project
+### Breathe Smarter. Travel Safer.
 
-AeroHealth AI is a health-aware route planning system designed to help users make safer travel decisions by combining personal health context with real-time environmental conditions.
+AeroHealth AI is a web-based environmental health assistant that combines air-quality information, environmental conditions, personal health factors, and location-based route analysis to help users make smarter outdoor decisions.
 
-The system analyzes factors such as air quality, PM2.5, weather, location, and travel mode to provide a personalized exposure assessment and suggest potentially lower-exposure routes.
+The prototype goes beyond displaying a generic AQI value by presenting personalized risk information and suggesting cleaner-air travel routes.
 
-## Key Features
+---
 
-- 👤 User Health & Travel Profile
-- 🌫️ AQI and PM2.5 Analysis
-- 🌦️ Weather and Environmental Data
-- 📊 Personal Safety Risk Score
-- 🗺️ Clean-Air Route Planning
-- 📍 Location-Based Analysis
-- 💡 Actionable Safety Guidance
-- 🧭 Interactive Map Interface
+## 🚀 Project Overview
 
-## How It Works
+AeroHealth AI is designed to help users understand how environmental conditions may affect their outdoor activities and travel.
 
-1. The user enters their health profile and travel information.
-2. The system collects environmental and location-related data.
-3. Environmental conditions are analyzed according to the user's context.
-4. A personalized exposure/safety level is generated.
-5. Available routes are compared based on environmental exposure.
-6. The system provides guidance for potentially safer travel.
+The platform provides:
 
-## Technologies Used
+- Real-time/current air-quality information
+- Personalized environmental health risk assessment
+- Clean-air route navigation
+- Symptom-based environmental insights
+- Location-based air-quality visualization
+- Personal health profile integration
 
+The goal is to make environmental information easier to understand and turn it into practical, user-friendly decisions.
+
+---
+
+## ✨ Features Implemented
+
+### 1. Air Quality Dashboard
+
+The home dashboard displays current environmental conditions including:
+
+- AQI
+- PM2.5
+- PM10
+- Humidity
+- Current air-quality status
+- User location
+
+The dashboard provides a simple visual representation of current air conditions.
+
+---
+
+### 2. Personal Health Risk Assessment
+
+The Risk Score module generates a safety/risk score based on environmental conditions and user-related factors.
+
+The prototype categorizes risk into:
+
+- **Low Risk — 80–100**
+- **Moderate Risk — 50–79**
+- **High Risk — 0–49**
+
+The assessment also considers factors such as:
+
+- Age
+- Health condition
+- Travel mode
+- Environmental exposure
+
+The result is presented through an easy-to-understand safety score and risk category.
+
+---
+
+### 3. Clean-Air Route Navigation
+
+The Clean-Air Route module allows users to select:
+
+- Starting point
+- Destination
+- Travel mode
+
+The prototype provides a route visualization designed to prioritize lower pollution exposure rather than considering distance alone.
+
+Example route:
+
+**Pune → Lonavala**
+
+The interface also provides quick-route options for different locations.
+
+---
+
+### 4. Live Clean-Air Map
+
+The prototype includes an interactive map for visualizing locations and route information.
+
+The map displays:
+
+- Starting point
+- Destination
+- Route
+- Location information
+- Air-quality-related route context
+
+---
+
+### 5. Symptom Checker
+
+The Symptom Checker allows users to select symptoms and explore possible environmental triggers through simplified insights.
+
+This feature is intended to help users understand possible relationships between environmental conditions and symptoms.
+
+---
+
+### 6. Health Profile
+
+The prototype includes a personal health profile section that can be used to provide information relevant to personalized environmental risk assessment.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
 - React
 - JavaScript
-- HTML5
-- CSS3
-- Vite
-- Leaflet / Maps
+- HTML
+- CSS
+
+### Mapping
+- OpenStreetMap-based mapping
+
+### APIs / Data
+- Air-quality data
+- Weather/environmental data
+- Location and map data
+
+### Deployment
+- Vercel
+
+> **Note:** Add the exact API names and libraries used in the source code if required by the evaluation team.
+
+---
+
+## 🖥️ Prototype Screenshots
+
+### Home Dashboard
+
+<img width="1600" height="1000" alt="WhatsApp Image 2026-10-06 at 00 41 37" src="https://github.com/user-attachments/assets/db5a6555-ac44-43ca-8213-566915d726be" />
+
+
+### Clean-Air Route
+
+<img width="1600" height="1000" alt="WhatsApp Image 2026-10-06 at 00 41 37 (1)" src="https://github.com/user-attachments/assets/84136ca7-af04-4e52-9588-f55ff90edd76" />
+
+
+### Health & Risk Assessment
+
+<img width="1600" height="1000" alt="WhatsApp Image 2026-10-06 at 00 41 37 (3)" src="https://github.com/user-attachments/assets/f01b626b-e017-4a0d-9a04-e520c69137e9" />
+
+
+### Personalized Health Features
+<img width="1600" height="1000" alt="WhatsApp Image 2026-10-06 at 00 41 37 (2)" src="https://github.com/user-attachments/assets/5c54bfe6-694f-4973-b9fc-163e06a9309f" />
+
+
+---
+
+## 🌐 Live Deployment
+
+The prototype is deployed on Vercel:
+
+https://temporary-rapid-copper-du39xkq.vercel.app/
+
+---
+
+## 💻 How to Run Locally
+
+### Prerequisites
+
+Make sure the following are installed:
+
 - Node.js
-- Backend APIs
-- GitHub
+- npm
+- Git
 
-## Project Structure
+### Installation
 
-```text
-AerohealthAi/
-│
-├── frontend/          # Frontend application
-├── backend/           # Backend and risk calculation
-├── aerohealth-map/    # Map and route functionality
-├── public/            # Public assets
-├── src/               # Application source code
-├── .github/           # GitHub workflows
-├── package.json       # Project dependencies
-├── package-lock.json  # Dependency lock file
-├── index.html
-├── .gitignore
-└── README.md
+Clone the repository:
+
+```bash
+git clone https://github.com/muskanshaikh2r-tech/Aerohealth-Ai.git
