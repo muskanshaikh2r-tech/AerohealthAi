@@ -136,7 +136,8 @@ The prototype includes a personal health profile section that can be used to pro
 
 ### Home Dashboard
 
-<img width="1600" height="1000" alt="WhatsApp Image 2026-10-06 at 00 41 37 (2)" src="https://github.com/user-attachments/assets/78a5e16a-5fc5-4c1c-9320-e7a049556abc" />
+<img width="1280" height="764" alt="WhatsApp Image 2026-10-06 at 01 03 34 (1)" src="https://github.com/user-attachments/assets/ca219876-90a9-480a-a87b-af25154b68b9" />
+
 
 
 
