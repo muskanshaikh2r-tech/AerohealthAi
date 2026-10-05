@@ -164,7 +164,7 @@ The prototype includes a personal health profile section that can be used to pro
 
 The prototype is deployed on Vercel:
 
-https://temporary-rapid-copper-du39xkq.vercel.app/
+https://aerohealth-ai.surge.sh/
 
 ---
 
