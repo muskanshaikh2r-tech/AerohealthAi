@@ -12,7 +12,7 @@ import {
 
 import L from "leaflet";
 
-import pollutionData from "./pollutionData";
+import pollutionData from "./pollutiondata";
 
 import "leaflet/dist/leaflet.css";
 import "./App.css";
