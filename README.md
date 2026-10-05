@@ -136,21 +136,25 @@ The prototype includes a personal health profile section that can be used to pro
 
 ### Home Dashboard
 
-<img width="1600" height="1000" alt="WhatsApp Image 2026-10-06 at 00 41 37" src="https://github.com/user-attachments/assets/db5a6555-ac44-43ca-8213-566915d726be" />
+<img width="1600" height="1000" alt="WhatsApp Image 2026-10-06 at 00 41 37 (2)" src="https://github.com/user-attachments/assets/78a5e16a-5fc5-4c1c-9320-e7a049556abc" />
+
 
 
 ### Clean-Air Route
 
-<img width="1600" height="1000" alt="WhatsApp Image 2026-10-06 at 00 41 37 (1)" src="https://github.com/user-attachments/assets/84136ca7-af04-4e52-9588-f55ff90edd76" />
+<img width="1280" height="769" alt="WhatsApp Image 2026-10-06 at 01 03 35 (1)" src="https://github.com/user-attachments/assets/81286c67-e596-4c28-837c-e8e91c0c1da0" />
+
 
 
 ### Health & Risk Assessment
 
-<img width="1600" height="1000" alt="WhatsApp Image 2026-10-06 at 00 41 37 (3)" src="https://github.com/user-attachments/assets/f01b626b-e017-4a0d-9a04-e520c69137e9" />
+<img width="1280" height="767" alt="WhatsApp Image 2026-10-06 at 01 03 35" src="https://github.com/user-attachments/assets/87d19f9d-c4f1-49e6-bf9c-031eb29dc3ab" />
+
 
 
 ### Personalized Health Features
-<img width="1600" height="1000" alt="WhatsApp Image 2026-10-06 at 00 41 37 (2)" src="https://github.com/user-attachments/assets/5c54bfe6-694f-4973-b9fc-163e06a9309f" />
+<img width="1280" height="764" alt="WhatsApp Image 2026-10-06 at 01 03 34" src="https://github.com/user-attachments/assets/d57a7d4f-59fb-4388-ae55-9408a8a7ca8c" />
+
 
 
 ---
