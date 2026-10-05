@@ -1,4 +1,4 @@
-const pollutionData = [
+const pollutiondata = [
 
   // =========================
   // PUNE REGION
